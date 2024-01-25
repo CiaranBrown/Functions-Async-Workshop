@@ -1,2 +1,3 @@
-# Functions-Async-Workshop
-FAC JS Workshop
+Founders & Coders Javascript Workshop Challenges
+
+Asynchronous Functions complete!
